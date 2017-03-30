@@ -1,0 +1,1 @@
+Algorithms for 	Q2 are in Q2 source files. but they are implemented in scientific2 source file too. method callings are commented properly in scientific2 source file. if you want to run and see you need to run the scientific2 source file. if you want to go through the algorithms you can go through Q2 source file
