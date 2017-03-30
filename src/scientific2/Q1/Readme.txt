@@ -1,1 +1,1 @@
-scientific2.java contains the algorithms for q1. just need to run the file. calling particular algorithms have been commented properly.
+scientific2.java contains the algorithms for q1. just need to run the file. calling particular algorithms have been commented properly. you have to check it carefully
